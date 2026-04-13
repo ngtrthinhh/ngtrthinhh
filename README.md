@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=280&section=header&text=Nguyễn%20Trung%20Thịnh&fontSize=65&animation=fadeIn&fontAlignY=45" alt="Header động Thịnh Nguyễn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=280&section=header&text=Nguyễn%20Trung%20Thịnh&fontSize=65&animation=fadeIn&fontAlignY=45" />
 </div>
 </div>  
   <h1>Hi there, I'm Thịnh 👋</h1>
