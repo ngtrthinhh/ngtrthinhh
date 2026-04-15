@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Nguyen%20Trung%20Thinh&fontSize=65&animation=fadeIn&fontAlignY=45" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Software&Engineer&fontSize=65&animation=fadeIn&fontAlignY=45" alt="Header" />
 </div>
 
 <div align="center">
-  <h3>👋 <b>Hello, World! I'm @ngtrthinhh (Thịnh Nguyễn).</b></h3>
+  <h3>👋 <b>Hello, World! I'm Nguyễn Trung Thịnh.</b></h3>
   <p>💻 <b>Senior Software Engineer & Team Lead</b> with a product-minded approach. I specialize in designing scalable system architectures using <b>Feature-Sliced Design (FSD)</b> and building high-quality cross-platform applications (Mobile & Web).</p>
 </div>
 
