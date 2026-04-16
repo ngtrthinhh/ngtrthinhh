@@ -3,15 +3,15 @@
 </div>
 
 <div align="center">
-  <h3>👋 <b>Hello, World! I'm Nguyễn Trung Thịnh.</b></h3>
+  <h3>👋 <b>Hello I'm Nguyễn Trung Thịnh.</b></h3>
   <p>💻 <b>Senior Software Engineer & Team Lead</b> with a product-minded approach. I specialize in designing scalable system architectures using <b>Feature-Sliced Design (FSD)</b> and building high-quality cross-platform applications (Mobile & Web).</p>
 </div>
 
 <br>
 
 🚀 **Current Focus:**
-* Optimizing mobile app performance (React Native, Zustand, MMKV) and developing Web Admin Dashboards (Next.js, Tailwind CSS).
-* Integrating IoT hardware (Smart rings/bands) via custom Native Modules (Swift/Kotlin) and implementing AI technologies (Face Scan, Voice Assistant).
+* Optimizing mobile app performance and developing Web.
+* Integrating IoT hardware (Smart rings/bands) via custom Native Modules and implementing AI technologies.
 * Continuously advancing my expertise in **Data Analytics & Artificial Intelligence**.
 
 ☕ **A Coffee & Tech Enthusiast:** Starting the day with a cup of milk coffee is my essential routine to kickstart logical thinking. Outside of coding, I am passionate about building high-performance PCs and destressing through sports like badminton, football, and hitting the gym.
@@ -23,9 +23,11 @@
   <a href="https://www.linkedin.com/in/ngtrthinhh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/trung.thinh.56548/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ngtrthinhh/?hl=en" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
