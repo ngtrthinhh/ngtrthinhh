@@ -18,7 +18,7 @@
 
 🤝 **Collaboration:** I am always open to collaborative opportunities, especially creative projects and remote work. I believe that great solutions always come from the synergy of a cohesive team.
 
-<div align="center">
+<div align="left">
   <b>Let's connect:</b><br><br>
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />](https://www.linkedin.com/in/ngtrthinhh) &nbsp; &nbsp; &nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" />](https://www.facebook.com/trung.thinh.56548/) &nbsp; &nbsp; &nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />](https://www.instagram.com/ngtrthinhh/?hl=en)
